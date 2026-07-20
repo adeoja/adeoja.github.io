@@ -1,8 +1,3 @@
-# What is this ?
-This is a portfolio template that you can use to showcase your work, especially if it's comprised of projects that should be shown in a very visual way.
-For a real world use case, check my portfolio: https://schouffy.github.io
-
-
 # How to use
 
 1. Install
